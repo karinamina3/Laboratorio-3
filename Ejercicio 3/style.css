@@ -1,0 +1,113 @@
+[type=button]{
+    padding: 8px 13px;
+    margin: 2px 7px;
+    font-size: 15px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    border: none;   
+}
+
+.tamanios [type=button] {
+    border: none;
+    color: #847d7b;
+    background-color: #f4f3f2;
+}
+
+.colores [type=button]{
+    color:#ffffff;
+    background-color: #000000;
+    border: none;
+}
+
+.bordeado [type=button]{
+    border: 1.4px solid #818181;
+    color: #818181;   
+    background-color: #ffffff; 
+}
+
+#peque {
+    font-size: 9px;
+}
+
+#grande {
+    font-size:22px;
+}
+
+#Cesmeralda {
+    background-color: #57d68d;
+}
+
+#Ccielo {
+    background-color: #5cace2;    
+}
+
+#Camatista {
+    background-color: #ae7ac4;
+}
+
+#Casfalto {
+    background-color: #5c6d7e;
+}
+
+#Ctopazio {
+    background-color: #ea974e;
+}
+
+#Crubi {
+    background-color: #eb6f62;
+}
+
+#Besmeralda {
+    border-color: #57d68d;
+    color: #57d68d;
+}
+
+#Bcielo {
+    border-color: #5cace2;    
+    color: #5cace2; 
+}
+
+#Bamatista {
+    border-color: #ae7ac4;
+    color: #ae7ac4;
+}
+
+#Basfalto {
+    border-color: #5c6d7e;
+    color: #5c6d7e;
+}
+
+#Btopazio {
+    border-color: #ea974e;
+    color: #ea974e;
+}
+
+#Brubi {
+    border-color: #eb6f62;
+    color: #eb6f62;
+}
+
+#largo {
+    color: #ffffff;
+    background-color: #5c6d7e;
+    font-size: 22px;
+}
+
+#cielo {
+    border: 1.4px solid #5cace2;    
+    color: #5cace2;  
+    background-color: #ffffff; 
+}
+
+#peques {
+    font-size: 9px;
+    background-color: #57d68d;
+    color:#ffffff;
+}
+
+#gran {
+    font-size:22px;
+    border: 1.4px solid #eb6f62;
+    color: #eb6f62;
+    background-color: #ffffff; 
+}
